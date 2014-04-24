@@ -1,0 +1,13 @@
+title:          Data Authentication
+vendor: 
+    name:       Silicon Valley Software Group
+    url:        "http://svsg.co/"
+agreement_date: 2014-04-19
+bid:            $7,500
+type:           time and materials
+services:
+    - Software Architecture and Specification
+    - Software Development and Testing
+    - Delivery, Installation, Bug fixing
+    - Product Development Consultation
+repository:     "https://github.com/unitedstates/authentication/"
