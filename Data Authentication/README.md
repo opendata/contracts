@@ -1,6 +1,6 @@
 # Contract with the Silicon Valley Software Group for the Data Authentication Project
 
-* [RFP](https://screendoor.dobt.co/u-s-open-data-institute/document-authentication-system)
+* [RFP](RFP.md)
 * [Contract expressed as YAML](contract.yaml)
 * [Contract outcome, as YAML](outcome.yaml)
 
